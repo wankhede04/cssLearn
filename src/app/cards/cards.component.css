@@ -1,0 +1,38 @@
+.card-container {
+    text-align: center;
+    border: 2px solid #ddd;
+    width: 160px;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.image img {
+    border-radius: 50px;
+    height: 200px;
+    width: 150px;
+}
+
+.image img:hover {
+    box-shadow: 0 0 3px 1px #9B756D;
+}
+
+
+.name {
+    font-weight: 600;
+    color: goldenrod;
+}
+
+.job {
+    color: royalblue;
+}
+
+.property {
+    color: blue;
+    font-size: 25px;
+}
+
+.card-container:hover {
+    box-shadow: 0 0 5px 2px grey;
+}

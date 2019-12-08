@@ -1,0 +1,59 @@
+.heading {
+    background-color: lightblue;
+}
+
+h1 {
+    color: orangered;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    color: chocolate;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.input {
+    text-align: center;
+    background-color: orange;
+    padding-top: 5px;
+}
+
+#input1 {
+    background-color: lightseagreen;
+    color: lightcoral;
+    font-size: 15px;
+    text-align: center;
+}
+
+.input-button {
+    border-radius: 10px;
+    color: blue;
+    background-color: cornsilk;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.content {
+    text-align: center;
+    color: #fff;
+}
+
+.inner-content {
+    background-color: dimgray;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.inner-content p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.app-card {
+
+}
